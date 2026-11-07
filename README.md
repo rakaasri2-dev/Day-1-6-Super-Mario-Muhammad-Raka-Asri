@@ -1034,26 +1034,6 @@ Menurut saya, pengetahuan dari workshop ini dapat menjadi bekal untuk menjalani 
 
 ---
 
-# 📌 STATUS PEMBELAJARAN
-
-| Materi | Status |
-|---|---|
-| Prompt Engineering | Dipelajari |
-| Pengenalan Git dan GitHub | Dipelajari |
-| Git Workflow dan perintah dasar | Dipelajari |
-| SSH Key dan koneksi GitHub | Dipelajari |
-| Konsep Student Task Planner | Dipelajari |
-| MBKM dan MSIB | Dipelajari |
-| Project-Based Learning | Dipelajari |
-| Problem-Based Learning | Dipelajari |
-| Case-Based Learning | Dipelajari |
-| Kurikulum OBE 2026 | Dipelajari |
-| Profil Lulusan dan CPL | Dipelajari |
-| Strategi belajar efektif | Dipelajari |
-| Praktik pembuatan Student Task Planner | Belum dilakukan |
-
----
-
 <p align="center">
   <b>Maintained by Muhammad Raka Asri</b>
   <br>
